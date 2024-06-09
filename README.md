@@ -1,2 +1,2 @@
-# libros
-Libros que voy leyendo y ejercicios que hago
+# Learn Haskell from First Principles
+Librazo para aprender programación funcional
